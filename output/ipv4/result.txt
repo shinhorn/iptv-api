@@ -1,19 +1,18 @@
 🕘️更新时间,#genre#
-2025-11-05 18:31:30,http://111.221.137.155:44330/tsfile/live/0002_1.m3u8?key=txiptv
+2025-11-07 18:30:26,http://xtvantsc.xyz/Smart.php?id=cctv2
 
 📺央视频道,#genre#
-CCTV-2,http://111.221.137.155:44330/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV-2,http://61.184.46.85:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://xtvantsc.xyz/Smart.php?id=cctv2
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://sh.lnott.top:880/dx04.m3u8
-CCTV-6,http://xtvantsc.xyz/Smart.php?id=cctv6
+CCTV-4,http://xtvantsc.xyz/Smart.php?id=cctv4
 CCTV-12,http://xtvantsc.xyz/Smart.php?id=cctv12
 CCTV-13,http://106.53.99.30/tv/cctv13.php
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-1,http://116.179.149.157:6000/rtp/226.0.2.181:9360
-CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
+CETV-1,http://223.10.81.133:8888/rtp/239.1.1.65:8065
+CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
+CETV-2,http://223.10.81.133:8888/rtp/239.1.1.66:8066
+CETV-4,http://223.10.81.133:8888/rtp/239.1.1.67:8067
 
 💰央视付费频道,#genre#
 
@@ -24,12 +23,12 @@ CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
 湖北卫视,http://111.221.137.155:44330/tsfile/live/0132_1.m3u8?key=txiptv
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-贵州卫视,http://sh.lnott.top:880/dx50.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江西卫视,http://111.221.137.155:44330/tsfile/live/1019_1.m3u8?key=txiptv
+辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-四川卫视,http://111.221.137.155:44330/tsfile/live/1017_1.m3u8?key=txiptv
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
 
 🌊港·澳·台,#genre#
@@ -63,9 +62,9 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
-靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
