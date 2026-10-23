@@ -1,44 +1,24 @@
 🕘️更新时间,#genre#
-2026-10-21 23:01:55,http://112.103.141.175:1234/631780532
+2026-10-23 22:52:02,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=454a0b5a2f4c67245e47d51b1c0aa680
 
 📺央视频道,#genre#
-CCTV-2,http://112.103.141.175:1234/631780532
-CCTV-3,http://112.103.141.175:1234/624878271
-CCTV-4,http://112.103.141.175:1234/631780421
-CCTV-5,http://112.103.141.175:1234/641886683
-CCTV-5+,http://112.103.141.175:1234/641886773
-CCTV-6,http://112.103.141.175:1234/624878396
-CCTV-7,http://112.103.141.175:1234/673168121
-CCTV-8,http://112.103.141.175:1234/624878356
-CCTV-9,http://112.103.141.175:1234/673168140
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b06ebe8fff6cae6b138b2f6d679d7afd
-CCTV-10,http://112.103.141.175:1234/624878405
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=454a0b5a2f4c67245e47d51b1c0aa680
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://112.103.141.175:1234/667987558
-CCTV-12,http://112.103.141.175:1234/673168185
-CCTV-13,http://112.103.141.175:1234/608807423
-CCTV-14,http://112.103.141.175:1234/624878440
-CCTV-15,http://112.103.141.175:1234/673168223
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-CCTV-17,http://112.103.141.175:1234/673168256
-CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
-CETV-1,http://45.192.97.170:8880/play/133.m3u8
+CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-1,http://112.103.141.175:1234/923287154
+CETV-1,http://204315.xyz:20204/rtp/233.18.204.187:5140
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-CETV-2,http://112.103.141.175:1234/923287211
-CETV-4,http://112.103.141.175:1234/923287339
 
 💰央视付费频道,#genre#
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin
 央视台球,http://204315.xyz:20204/rtp/233.18.204.177:5140
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue
 第一剧场,https://live.264788.xyz/channel/diyijuchang
-第一剧场,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58624.ts
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang
 怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
@@ -46,45 +26,29 @@ CETV-4,http://112.103.141.175:1234/923287339
 兵器科技,https://live.264788.xyz/channel/bingqikeji
 
 📡卫视频道,#genre#
-广东卫视,http://112.103.141.175:1234/608831231
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
-北京卫视,http://112.103.141.175:1234/630287636
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
-湖北卫视,http://112.103.141.175:1234/947472496
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
-东方卫视,http://112.103.141.175:1234/651632648
-东南卫视,http://112.103.141.175:1234/849116810
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://192.151.150.154/live/gswshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
-海南卫视,http://112.103.141.175:1234/947472502
-河北卫视,http://112.103.141.175:1234/962042070
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://112.103.141.175:1234/790187291
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://112.103.141.175:1234/947472500
-江苏卫视,http://112.103.141.175:1234/623899368
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
-江西卫视,http://112.103.141.175:1234/783847495
-辽宁卫视,http://112.103.141.175:1234/630291707
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
-宁夏卫视,http://112.103.141.175:1234/738910535
-青海卫视,http://112.103.141.175:1234/947472506
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-陕西卫视,http://112.103.141.175:1234/738910838
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-三沙卫视,http://112.103.141.175:1234/961023778
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -97,6 +61,7 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -105,8 +70,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🏛经典剧场,#genre#
